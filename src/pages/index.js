@@ -27,7 +27,7 @@ function HomepageHeader() {
             The name Trout Lake Holdings is inspired by a lake inside a park inside a city. Trout Lake represents the power and the possibility that a place can have to change one&apos;s life.
           </p>
           <p>
-            If you&apos;d like to know more, please check out our&nbsp;<Link href="/writings">writings</Link>&#44;&nbsp;<Link href="/links">links</Link>&nbsp;or&nbsp;<a href="mailto:blake@troutlakeholdings.com">get in touch</a>.
+            If you&apos;d like to know more, please check out our&nbsp;<Link href="/blog">blog</Link>&#44;&nbsp;<Link href="/links">links</Link>&nbsp;or&nbsp;<a href="mailto:blake@troutlakeholdings.com">get in touch</a>.
           </p>
         </div>
       </div>

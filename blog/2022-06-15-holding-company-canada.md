@@ -93,7 +93,7 @@ We like to buy businesses that have: high margins, a unique advantage, a simple 
 - Restaurant and bar
 - Botanical body product brand
 
-[More examples of holding companies](/writings/holding-company-examples)
+[More examples of holding companies](/blog/holding-company-examples)
 
 ## References
 - [Are Holding Companies Worth It In Canada?](https://whistlervalleybusiness.com/are-holding-companies-worth-it-canada/) 

@@ -7,7 +7,7 @@ authors: [blake]
 
 [Trout Lake Holdings](/)
 
-Our aim is to build companies that share the [characteristics of the best types of business](/writings/the-best-businesses).
+Our aim is to build companies that share the [characteristics of the best types of business](/blog/the-best-businesses).
 
 - Hybrid art gallery 📈
 - Productized management consulting for luxury retailers 🏁

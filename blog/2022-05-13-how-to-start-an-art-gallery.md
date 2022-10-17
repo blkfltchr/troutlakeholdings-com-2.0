@@ -13,7 +13,7 @@ Here's how we got started.
 
 **1. Focus only on the best types of businesses**
 
-We were talking about going into business for a while. We said no to a lot of good ideas. We wanted to focus on the [best types of business](/writings/the-best-businesses).
+We were talking about going into business for a while. We said no to a lot of good ideas. We wanted to focus on the [best types of business](/blog/the-best-businesses).
 
 We researched the art gallery market and found a lot to like:
 
