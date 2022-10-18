@@ -33,6 +33,7 @@ const config = {
         blog: {
           showReadingTime: false,
           blogSidebarCount: 0,
+          postsPerPage: 5,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -52,13 +53,13 @@ const config = {
         },
         items: [
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/links', label: 'Links', position: 'left'},
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
             label: 'Notes',
           },
-          {to: '/links', label: 'Links', position: 'left'},
           {
             href: 'mailto:blake@troutlakeholdings.com',
             label: 'Get In Touch',

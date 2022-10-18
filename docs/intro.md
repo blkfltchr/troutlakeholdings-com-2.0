@@ -1,4 +1,5 @@
 ---
+title: Notes
 sidebar_position: 1
 ---
 
