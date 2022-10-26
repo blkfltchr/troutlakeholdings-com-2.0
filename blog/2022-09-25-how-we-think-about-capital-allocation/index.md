@@ -1,7 +1,7 @@
 ---
 slug: how-we-think-about-capital-allocation
 title: How We Think About Capital Allocation
-description: How We Think About Capital Allocation
+description: A decision tree for reinvesting profits
 authors: [blake]
 ---
 

@@ -1,7 +1,7 @@
 ---
 slug: holding-company-canada
 title: The Canadian Guide to Starting A Holding Company
-description: What is a holding company and do you need one?
+description: What is a holding company and what are the benifits
 authors: [blake]
 ---
 
@@ -69,7 +69,7 @@ It gives business owners up to fifty-cents on every dollar of increased investme
 
 [Tiny](https://www.tiny.com/) makes investments in both private and public companies and have a base of permanent capital from a family office based in Victoria, British Columbia.
 
-**HoldCo investment thesis and portfolio**
+**Example HoldCo investment thesis and portfolio**
 
 We like to buy businesses that have: high margins, a unique advantage, a simple business model, healthy profit, successful operations, a high-quality team, and a positive and ethical approach.
 

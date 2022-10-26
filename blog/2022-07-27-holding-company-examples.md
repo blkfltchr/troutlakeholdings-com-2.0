@@ -1,7 +1,7 @@
 ---
 slug: holding-company-examples
 title: Holding Company Examples
-description: Building my dream portfolio
+description: And building my dream portfolio
 authors: [blake]
 ---
 
@@ -10,11 +10,8 @@ authors: [blake]
 Our aim is to build companies that share the [characteristics of the best types of business](/blog/the-best-businesses).
 
 - Hybrid art gallery 📈
-- Productized management consulting for luxury retailers 🏁
-- Wedding vendor database 💡
-- Digital marketing agency for online SMBs 🔮
-- Portfolio of SFHs and short-term rentals 🔮
-- Commercial / residential mixed use downtown bulding 🔮
+- Management consulting for high-ticket sales orgs 🏁
+- Wedding vendor database 🔮
 - Concert hall and wedding venue 🔮
 - Y Combinator for musicians 🔮
 

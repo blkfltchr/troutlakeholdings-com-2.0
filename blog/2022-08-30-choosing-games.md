@@ -1,7 +1,7 @@
 ---
 slug: choosing-games
 title: The Games We Play
-description: Choosing games we know we can win.
+description: Choosing games we know we can win
 authors: [blake]
 ---
 

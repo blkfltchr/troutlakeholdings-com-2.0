@@ -32,8 +32,8 @@ const config = {
         },
         blog: {
           showReadingTime: false,
-          blogSidebarCount: 0,
-          postsPerPage: 5,
+          blogSidebarCount: 10,
+          postsPerPage: 4,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -74,7 +74,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Made with ❤️  in Canada. Copyright © ${new Date().getFullYear()} Trout Lake Holdings, Ltd. <a href='/trout-lake-vancouver'>⛰</a>`,
+        copyright: `Made with ❤️  in Canada.<br>Copyright © ${new Date().getFullYear()} Trout Lake Holdings, Ltd. <a href='/trout-lake-vancouver'>⛰</a>`,
       },
       prism: {
         theme: lightCodeTheme,

@@ -1,7 +1,7 @@
 ---
 slug: holding-company-playbook
 title: Holding Company Playbook
-description: How to compound capital inside a HoldCo
+description: 6 steps to compounding capital inside a holding company
 authors: [blake]
 ---
 

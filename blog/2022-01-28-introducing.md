@@ -1,7 +1,7 @@
 ---
 slug: introducing
 title: 'Introducing: Trout Lake Holdings'
-description: We build great businesses.
+description: We build great businesses
 authors: [blake]
 ---
 

@@ -52,6 +52,10 @@ a, a:hover, .table-of-contents__link--active, .table-of-contents__link:hover, .s
   color: #3182CE;
 }
 
+h3, h3:hover {
+  color: var(--ifm-menu-color-active);
+}
+
 .main-wrapper, .footer--dark {
  background-color: var(--ifm-color-primary); 
 }

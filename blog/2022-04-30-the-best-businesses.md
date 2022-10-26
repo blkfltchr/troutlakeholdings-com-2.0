@@ -1,7 +1,7 @@
 ---
 slug: the-best-businesses
 title: The Best Types of Businesses
-description: Characteristics of great businesses.
+description: Characteristics of great businesses
 authors: [blake]
 ---
 
