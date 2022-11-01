@@ -18,7 +18,8 @@ export default function BlogPostItemHeaderTitle({className}) {
           </Link>
         )}
       </TitleHeading>
-      {isBlogPostPage ? undefined : <Link itemProp="url" to={permalink}><h3>{metadata.description}</h3></Link>}
+      {isBlogPostPage ? undefined : 
+       <div><Link itemProp="url" to={permalink}><h3>{metadata.description}</h3></Link><Link itemProp="url" to={permalink}>Continue reading</Link></div>}
     </div>
   );
 }
