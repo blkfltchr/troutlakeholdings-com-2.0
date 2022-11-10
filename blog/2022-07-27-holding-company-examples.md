@@ -83,3 +83,13 @@ We love mission-critical B2B SaaS businesses with: $300k to $5mm in annual recur
 - Automation consultancy
 - Audio publishing platform for creators
 - Outbound sales as a service
+
+[Decada Group](https://www.decada-group.com/)
+
+Building long-sighted small business in Salt Lake City. We are committed to acquiring and growing small businesses long term, giving them the resources they need to thrive, and fulfilling the visions on which they were founded.
+
+- Luxury custom clothier
+- Fine art academy and creative studio space
+- Luxury custom home builder
+- Electrical service provider
+- Custom hat maker

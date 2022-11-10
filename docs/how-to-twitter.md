@@ -5,9 +5,9 @@ sidebar_position: 4
 
 ## Daily checklist
 
-1. 3 tweets per day
-2. 6 comments under large accounts per day
-3. 2 threads per week
+1. 2 tweets per day
+2. 5 comments under large accounts per day
+3. 3 threads per week
 
 ## Prompts
 
