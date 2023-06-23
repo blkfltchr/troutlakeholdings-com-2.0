@@ -12,9 +12,11 @@ title: Links
 
 ## Threads and essays
       
-[@girdley on Starting a micro-coworking space](https://twitter.com/girdley/status/1437835093729497102)  
-[@awilkinson on Recreating the local newspaper in digital form](https://twitter.com/awilkinson/status/1300823531912007681)  
-[The ladders of wealth creation: a step-by-step roadmap to building wealth](https://nathanbarry.com/wealth-creation/)  
+[Michael Girdley on Starting a micro-coworking space](https://twitter.com/girdley/status/1437835093729497102)  
+[Andrew Wilkinson on Recreating the local newspaper in digital form](https://twitter.com/awilkinson/status/1300823531912007681)  
+[Nathan Barry on A step-by-step roadmap to building wealth](https://nathanbarry.com/wealth-creation/)
+[Philippe Laffont on How to build long term performance in investing](https://twitter.com/plaffont/status/1363590596259151872)
+[Philippe Laffont on Being a good public investor by making a few big calls](https://twitter.com/plaffont/status/1351004371585261581)"
 
 ## Books
       
