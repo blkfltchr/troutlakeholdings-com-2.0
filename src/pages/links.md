@@ -7,13 +7,11 @@ title: Links
 ## Profiles
       
 [After The Process: Meet Sam Hinkie 2.0](https://www.si.com/nba/2016/11/30/sam-hinkie-after-the-process-philadelphia-76ers)  
-[Patagonia's Philosopher-King](https://www.newyorker.com/magazine/2016/09/19/patagonias-philosopher-king)  
 [The man who bought Toronto Life for a dollar and turned it into a multimillion-dollar media empire](https://torontolife.com/life/michael-de-pencier-toronto-life/)  
+[A Day In the Life of Brunello Cucinelli](https://www.harpersbazaar.com/fashion/designers/a17874/brunello-cucinelli-profile/)  
 
 ## Threads and essays
       
-[Michael Girdley on Starting a micro-coworking space](https://twitter.com/girdley/status/1437835093729497102)  
-[Andrew Wilkinson on Recreating the local newspaper in digital form](https://twitter.com/awilkinson/status/1300823531912007681)  
 [Nathan Barry on A step-by-step roadmap to building wealth](https://nathanbarry.com/wealth-creation/)  
 [Philippe Laffont on How to build long term performance in investing](https://twitter.com/plaffont/status/1363590596259151872)  
 [Philippe Laffont on Being a good public investor by making a few big calls](https://twitter.com/plaffont/status/1351004371585261581)  
