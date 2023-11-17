@@ -12,7 +12,6 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.content}>
           <p>
             Trout Lake Holdings Ltd is a holding company based in Toronto, Canada.
@@ -27,7 +26,7 @@ function HomepageHeader() {
             The name Trout Lake Holdings is inspired by a lake inside a park inside a city. Trout Lake represents the power and the possibility that a place can have to change one&apos;s life.
           </p>
           <p>
-            If you&apos;d like to know more, please check out our&nbsp;<Link href="/blog">blog</Link>&#44;&nbsp;<Link href="/links">links</Link>&nbsp;or&nbsp;<a href="mailto:blake@troutlakeholdings.com">get in touch</a>.
+            If you&apos;d like to know more, please check out our&nbsp;<Link href="/blog">blog</Link>&nbsp;or&nbsp;<a href="mailto:blake@troutlakeholdings.com">get in touch</a>.
           </p>
         </div>
       </div>

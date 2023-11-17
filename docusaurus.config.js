@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Trout Lake Holdings',
-  tagline: 'We build great businesses.',
+  tagline: 'A holding company in Toronto, Canada.',
   url: 'https://troutlakeholdings.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -33,7 +33,7 @@ const config = {
         blog: {
           showReadingTime: false,
           blogSidebarCount: 10,
-          postsPerPage: 4,
+          postsPerPage: 6,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -53,7 +53,6 @@ const config = {
         },
         items: [
           {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/links', label: 'Links', position: 'left'},
           {
             href: 'mailto:blake@troutlakeholdings.com',
             label: 'Get In Touch',
