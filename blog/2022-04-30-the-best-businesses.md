@@ -11,8 +11,9 @@ Characteristics of the best types of businesses:
 * High margins
 * Software driven
 * Scalable growth
+* High-ticket price
 * Low to no inventory
 * Few employees
-* No debt
+* Low capital expenditiures financed by profits not debt
 
-For example, online media businesses like job boards, newsletters, and blogs.
+For example, online media businesses like job boards, newsletters, and paid communities.
