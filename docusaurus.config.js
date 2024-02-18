@@ -52,16 +52,10 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'mailto:blake@troutlakeholdings.com',
             label: 'Get In Touch',
             position: 'left',
-          },
-          {
-            href: 'https://twitter.com/blakefletcher_',
-            label: 'Twitter',
-            position: 'right',
           },
         ],
       },

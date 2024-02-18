@@ -14,19 +14,16 @@ function HomepageHeader() {
         <h1 className="hero__title">{siteConfig.title}</h1>
         <div className={styles.content}>
           <p>
-            Trout Lake Holdings Ltd is a holding company based in Toronto, Canada.
+            Trout Lake Holdings Ltd is based in Toronto, Canada.
           </p>
           <p>
             We own and operate&nbsp;<a href="https://cloudgallery.ca" rel="noreferrer" target="_blank">Cloud Gallery</a>, a hybrid art gallery that combines online and gallery spaces to showcase original art inspired by Ontario&apos;s natural beauty.
           </p>
           <p>
-            Our aim is to build companies that share the characteristics of&nbsp;<Link href="/blog/the-best-businesses">the best types of businesses</Link>.
-          </p>
-          <p>
             The name Trout Lake Holdings is inspired by a lake inside a park inside a city. Trout Lake represents the power and the possibility that a place can have to change one&apos;s life.
           </p>
           <p>
-            If you&apos;d like to know more, please check out our&nbsp;<Link href="/blog">blog</Link>&nbsp;or&nbsp;<a href="mailto:blake@troutlakeholdings.com">get in touch</a>.
+            If you&apos;d like to know more, please&nbsp;<a href="mailto:blake@troutlakeholdings.com">get in touch</a>.
           </p>
         </div>
       </div>
